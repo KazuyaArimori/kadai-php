@@ -1,0 +1,17 @@
+/* タイトルのスタイル */
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* 登録完了メッセージのスタイル */
+p {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 50px;
+}
+
+/* フォームのコンテナのスタイル */
+body {
+  background-color: #f2f2f2;
+}
